@@ -7,4 +7,5 @@
   * OS Platform
   * Information about the current user
 
-  ![Screenshot (11)](https://user-images.githubusercontent.com/83451130/136540763-61fd11b3-e50b-4ef5-b79a-2dc5530e7ebb.png)
+![11](https://user-images.githubusercontent.com/83451130/136542934-2b8fdaf3-e90b-4e43-939e-8e5f0f618ea3.png)
+
